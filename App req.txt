@@ -1,0 +1,17 @@
+faster_whsiper
+requests
+tiktoken
+chainlit
+tensorflow
+matplotlib
+psutil
+webrtcvad
+gtts
+roslibpy
+noisereduce
+paramiko
+scikit-learn
+
+
+Cuda Version:
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu130
