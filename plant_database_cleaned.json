@@ -1,0 +1,3536 @@
+[
+  {
+    "Plant": "Rosemary",
+    "Light": "Full sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Low",
+    "Propagation": "Regularly",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Lavender",
+    "Light": "Full sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-drained",
+    "Temperature": "Low",
+    "Fertilizer": "Warm",
+    "Pruning": "Low",
+    "Propagation": "After flowering",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Sage",
+    "Light": "Full sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-drained",
+    "Temperature": "Low",
+    "Fertilizer": "Warm",
+    "Pruning": "Low",
+    "Propagation": "After flowering",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Thyme",
+    "Light": "Full sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-drained",
+    "Temperature": "Low",
+    "Fertilizer": "Warm",
+    "Pruning": "Low",
+    "Propagation": "After flowering",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Oregano",
+    "Light": "Full sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-drained",
+    "Temperature": "Low",
+    "Fertilizer": "Warm",
+    "Pruning": "Low",
+    "Propagation": "After flowering",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Basil",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Seeds"
+  },
+  {
+    "Plant": "Mint",
+    "Light": "Partial shade",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Cool",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Division"
+  },
+  {
+    "Plant": "Parsley",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Cool",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Seeds"
+  },
+  {
+    "Plant": "Dill",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Cool",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Seeds"
+  },
+  {
+    "Plant": "Chives",
+    "Light": "Full sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Cool",
+    "Pruning": "Moderate",
+    "Propagation": "Regularly",
+    "Notes": "Division"
+  },
+  {
+    "Plant": "Peppers",
+    "Light": "Full sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Regularly",
+    "Notes": "Seeds"
+  },
+  {
+    "Plant": "Tomatoes",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Seeds"
+  },
+  {
+    "Plant": "Cucumbers",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Seeds"
+  },
+  {
+    "Plant": "Zucchini",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Seeds"
+  },
+  {
+    "Plant": "Squash",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Seeds"
+  },
+  {
+    "Plant": "Beans",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Seeds"
+  },
+  {
+    "Plant": "Peas",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Cool",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Seeds"
+  },
+  {
+    "Plant": "Strawberries",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Cool",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Runners"
+  },
+  {
+    "Plant": "Blueberries",
+    "Light": "Partial shade",
+    "Watering": "Regular",
+    "Humidity": "Acidic",
+    "Temperature": "Balanced",
+    "Fertilizer": "Cool",
+    "Pruning": "Moderate",
+    "Propagation": "After flowering",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Raspberries",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Cool",
+    "Pruning": "Moderate",
+    "Propagation": "After flowering",
+    "Notes": "Division"
+  },
+  {
+    "Plant": "Blackberries",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Cool",
+    "Pruning": "Moderate",
+    "Propagation": "After flowering",
+    "Notes": "Division"
+  },
+  {
+    "Plant": "Apples",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Cool",
+    "Pruning": "Moderate",
+    "Propagation": "After flowering",
+    "Notes": "Grafting"
+  },
+  {
+    "Plant": "Pears",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Cool",
+    "Pruning": "Moderate",
+    "Propagation": "After flowering",
+    "Notes": "Grafting"
+  },
+  {
+    "Plant": "Cherries",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Cool",
+    "Pruning": "Moderate",
+    "Propagation": "After flowering",
+    "Notes": "Grafting"
+  },
+  {
+    "Plant": "Peaches",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "After flowering",
+    "Notes": "Grafting"
+  },
+  {
+    "Plant": "Nectarines",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "After flowering",
+    "Notes": "Grafting"
+  },
+  {
+    "Plant": "Plums",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Cool",
+    "Pruning": "Moderate",
+    "Propagation": "After flowering",
+    "Notes": "Grafting"
+  },
+  {
+    "Plant": "Apricots",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "After flowering",
+    "Notes": "Grafting"
+  },
+  {
+    "Plant": "Figs",
+    "Light": "Full sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Low",
+    "Propagation": "After fruiting",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Grapes",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "After fruiting",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Avocado",
+    "Light": "Partial shade",
+    "Watering": "Moderate",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Seeds"
+  },
+  {
+    "Plant": "Citrus",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "After fruiting",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Mango",
+    "Light": "Full sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "After fruiting",
+    "Notes": "Seeds"
+  },
+  {
+    "Plant": "Pineapple",
+    "Light": "Full sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "After fruiting",
+    "Notes": "Crown"
+  },
+  {
+    "Plant": "Papaya",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "After fruiting",
+    "Notes": "Seeds"
+  },
+  {
+    "Plant": "Bananas",
+    "Light": "Full sun",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "After fruiting",
+    "Notes": "Suckers"
+  },
+  {
+    "Plant": "Coffee",
+    "Light": "Partial shade",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "After fruiting",
+    "Notes": "Seeds"
+  },
+  {
+    "Plant": "Tea",
+    "Light": "Partial shade",
+    "Watering": "Regular",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "After fruiting",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Cactus",
+    "Light": "Full sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-drained",
+    "Temperature": "Low",
+    "Fertilizer": "Warm",
+    "Pruning": "Low",
+    "Propagation": "After flowering",
+    "Notes": "Seeds"
+  },
+  {
+    "Plant": "Succulents",
+    "Light": "Full sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-drained",
+    "Temperature": "Low",
+    "Fertilizer": "Warm",
+    "Pruning": "Low",
+    "Propagation": "After flowering",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Orchids",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Bark-based",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "High",
+    "Propagation": "After flowering",
+    "Notes": "Division"
+  },
+  {
+    "Plant": "Ferns",
+    "Light": "Partial shade",
+    "Watering": "Regular",
+    "Humidity": "Moist",
+    "Temperature": "Balanced",
+    "Fertilizer": "Cool",
+    "Pruning": "High",
+    "Propagation": "After flowering",
+    "Notes": "Spores"
+  },
+  {
+    "Plant": "Houseplants",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Regularly",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Begonia",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "African Violet",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Leaf cuttings"
+  },
+  {
+    "Plant": "Pothos",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Snake Plant",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Low",
+    "Propagation": "Pinch back",
+    "Notes": "Division"
+  },
+  {
+    "Plant": "Spider Plant",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Puppies"
+  },
+  {
+    "Plant": "ZZ Plant",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Low",
+    "Propagation": "Pinch back",
+    "Notes": "Division"
+  },
+  {
+    "Plant": "Peace Lily",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Division"
+  },
+  {
+    "Plant": "Monstera",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Fiddle Leaf Fig",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Calathea",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "High",
+    "Propagation": "Pinch back",
+    "Notes": "Division"
+  },
+  {
+    "Plant": "Maranta",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "High",
+    "Propagation": "Pinch back",
+    "Notes": "Division"
+  },
+  {
+    "Plant": "Philodendron",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Dieffenbachia",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Croton",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Dracaena",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Yucca",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Well-drained",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Alocasia",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "High",
+    "Propagation": "Pinch back",
+    "Notes": "Division"
+  },
+  {
+    "Plant": "Anthurium",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "High",
+    "Propagation": "Pinch back",
+    "Notes": "Division"
+  },
+  {
+    "Plant": "Bromeliad",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "High",
+    "Propagation": "Pinch back",
+    "Notes": "Pups"
+  },
+  {
+    "Plant": "Hoya",
+    "Light": "Bright indirect light",
+    "Watering": "Moderate",
+    "Humidity": "Potting mix",
+    "Temperature": "Balanced",
+    "Fertilizer": "Warm",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch back",
+    "Notes": "Cuttings"
+  },
+  {
+    "Plant": "Strawberry",
+    "Light": "Full sun to partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "60-85°F",
+    "Pruning": "Moderate",
+    "Propagation": "Remove runners and old leaves",
+    "Notes": "Early summer to fall"
+  },
+  {
+    "Plant": "Tomato",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "65-85°F",
+    "Pruning": "Moderate",
+    "Propagation": "Prune suckers and leaves",
+    "Notes": "Late summer to fall"
+  },
+  {
+    "Plant": "Lettuce",
+    "Light": "Partial shade to full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "55-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Harvest outer leaves as needed",
+    "Notes": "Spring to fall"
+  },
+  {
+    "Plant": "Cucumber",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "65-85°F",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch off side shoots and leaves",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Bell pepper",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "65-85°F",
+    "Pruning": "Moderate",
+    "Propagation": "Prune off suckers and leaves",
+    "Notes": "Summer to fall"
+  },
+  {
+    "Plant": "Green beans",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "65-85°F",
+    "Pruning": "Moderate",
+    "Propagation": "Pinch off tips to encourage branching",
+    "Notes": "Summer to fall"
+  },
+  {
+    "Plant": "Spinach",
+    "Light": "Partial shade to full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "55-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Harvest outer leaves as needed",
+    "Notes": "Spring to fall"
+  },
+  {
+    "Plant": "Kale",
+    "Light": "Full sun to partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "40-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Harvest outer leaves as needed",
+    "Notes": "Fall to spring"
+  },
+  {
+    "Plant": "Broccoli",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "55-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Remove side shoots",
+    "Notes": "Spring to fall"
+  },
+  {
+    "Plant": "Cauliflower",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "55-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Remove side shoots",
+    "Notes": "Spring to fall"
+  },
+  {
+    "Plant": "Radish",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "40-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Harvest when radishes are firm",
+    "Notes": "Spring to fall"
+  },
+  {
+    "Plant": "Carrot",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "40-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Thin seedlings",
+    "Notes": "Spring to fall"
+  },
+  {
+    "Plant": "Onion",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "55-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Harvest bulbs when they are firm",
+    "Notes": "Summer to fall"
+  },
+  {
+    "Plant": "Garlic",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "55-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Harvest bulbs when leaves turn brown",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Potato",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "65-85°F",
+    "Pruning": "Moderate",
+    "Propagation": "Hilling up soil around plants",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Asparagus",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "55-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Harvest spears in spring",
+    "Notes": "Spring"
+  },
+  {
+    "Plant": "Blueberry",
+    "Light": "Full sun to partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Acidic fertilizer",
+    "Temperature": "Acidic soil",
+    "Fertilizer": "55-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Prune after fruiting",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Raspberry",
+    "Light": "Full sun to partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "55-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Prune after fruiting",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Blackberry",
+    "Light": "Full sun to partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "55-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Prune after fruiting",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Grape",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "55-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Prune in winter",
+    "Notes": "Fall"
+  },
+  {
+    "Plant": "Apple",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "40-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Prune in winter",
+    "Notes": "Fall"
+  },
+  {
+    "Plant": "Pear",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "40-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Prune in winter",
+    "Notes": "Fall"
+  },
+  {
+    "Plant": "Cherry",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "40-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Prune in winter",
+    "Notes": "Fall"
+  },
+  {
+    "Plant": "Peach",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "40-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Prune in winter",
+    "Notes": "Fall"
+  },
+  {
+    "Plant": "Plum",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "40-75°F",
+    "Pruning": "Moderate",
+    "Propagation": "Prune in winter",
+    "Notes": "Fall"
+  },
+  {
+    "Plant": "Lemon",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "65-85°F",
+    "Pruning": "Moderate",
+    "Propagation": "Prune in winter",
+    "Notes": "Winter"
+  },
+  {
+    "Plant": "Orange",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "65-85°F",
+    "Pruning": "Moderate",
+    "Propagation": "Prune in winter",
+    "Notes": "Winter"
+  },
+  {
+    "Plant": "Lime",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "65-85°F",
+    "Pruning": "Moderate",
+    "Propagation": "Prune in winter",
+    "Notes": "Winter"
+  },
+  {
+    "Plant": "Grapefruit",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "65-85°F",
+    "Pruning": "Moderate",
+    "Propagation": "Prune in winter",
+    "Notes": "Winter"
+  },
+  {
+    "Plant": "Fig",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "65-85°F",
+    "Pruning": "Moderate",
+    "Propagation": "Prune after fruiting",
+    "Notes": "Fall"
+  },
+  {
+    "Plant": "Date",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Prune after fruiting",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Olive",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "65-85°F",
+    "Pruning": "Moderate",
+    "Propagation": "Prune in winter",
+    "Notes": "Winter"
+  },
+  {
+    "Plant": "Coconut",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Sandy soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Prune after fruiting",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Vanilla",
+    "Light": "Partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Prune after fruiting",
+    "Notes": "Fall"
+  },
+  {
+    "Plant": "Cinnamon",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Prune after fruiting",
+    "Notes": "Fall"
+  },
+  {
+    "Plant": "Ginger",
+    "Light": "Partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest rhizomes",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Turmeric",
+    "Light": "Partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest rhizomes",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Cayenne pepper",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest peppers",
+    "Notes": "Fall"
+  },
+  {
+    "Plant": "Cilantro",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest leaves",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Fennel",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest bulbs and leaves",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Tarragon",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest leaves",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Marjoram",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest leaves",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Peppermint",
+    "Light": "Partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest leaves",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Spearmint",
+    "Light": "Partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest leaves",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Lemon balm",
+    "Light": "Partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest leaves",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Chamomile",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Echinacea",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Calendula",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Sunflower",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest seeds",
+    "Notes": "Fall"
+  },
+  {
+    "Plant": "Zinnia",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Cosmos",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Marigold",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Petunia",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Geranium",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Impatiens",
+    "Light": "Partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Fuchsia",
+    "Light": "Partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Salvia",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Rose",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Lily",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Summer"
+  },
+  {
+    "Plant": "Tulip",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Spring"
+  },
+  {
+    "Plant": "Daffodil",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Spring"
+  },
+  {
+    "Plant": "Hyacinth",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Spring"
+  },
+  {
+    "Plant": "Crocus",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Spring"
+  },
+  {
+    "Plant": "Snowdrop",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Spring"
+  },
+  {
+    "Plant": "Iris",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Spring"
+  },
+  {
+    "Plant": "Peony",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Spring"
+  },
+  {
+    "Plant": "Amaryllis",
+    "Light": "Full sun",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Winter"
+  },
+  {
+    "Plant": "Orchid",
+    "Light": "Partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Harvest flowers",
+    "Notes": "Spring"
+  },
+  {
+    "Plant": "Succulent",
+    "Light": "Full sun",
+    "Watering": "Infrequently",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "Low",
+    "Propagation": "Prune as needed",
+    "Notes": "Year-round"
+  },
+  {
+    "Plant": "Fern",
+    "Light": "Partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Prune as needed",
+    "Notes": "Year-round"
+  },
+  {
+    "Plant": "Moss",
+    "Light": "Partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Prune as needed",
+    "Notes": "Year-round"
+  },
+  {
+    "Plant": "Ivy",
+    "Light": "Partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Prune as needed",
+    "Notes": "Year-round"
+  },
+  {
+    "Plant": "Peace lily",
+    "Light": "Partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Prune as needed",
+    "Notes": "Year-round"
+  },
+  {
+    "Plant": "Snake plant",
+    "Light": "Partial shade",
+    "Watering": "Infrequently",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "Low",
+    "Propagation": "Prune as needed",
+    "Notes": "Year-round"
+  },
+  {
+    "Plant": "Spider plant",
+    "Light": "Partial shade",
+    "Watering": "Regularly",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "High",
+    "Propagation": "Prune as needed",
+    "Notes": "Year-round"
+  },
+  {
+    "Plant": "ZZ plant",
+    "Light": "Partial shade",
+    "Watering": "Infrequently",
+    "Humidity": "Balanced fertilizer",
+    "Temperature": "Well-drained soil",
+    "Fertilizer": "75-90°F",
+    "Pruning": "Low",
+    "Propagation": "Prune as needed",
+    "Notes": "Year-round"
+  },
+  {
+    "Plant": "Marigolds",
+    "Light": "Full sun",
+    "Watering": "Water regularly",
+    "Humidity": "Fertilize every 2-3 weeks",
+    "Temperature": "60-80°F (15-27°C)",
+    "Fertilizer": "Moderate",
+    "Pruning": "Deadhead spent blooms to encourage more flowers"
+  },
+  {
+    "Plant": "Zinnias",
+    "Light": "Full sun",
+    "Watering": "Water regularly",
+    "Humidity": "Fertilize every 2-3 weeks",
+    "Temperature": "60-80°F (15-27°C)",
+    "Fertilizer": "Moderate",
+    "Pruning": "Deadhead spent blooms to encourage more flowers"
+  },
+  {
+    "Plant": "Petunias",
+    "Light": "Full sun",
+    "Watering": "Water regularly",
+    "Humidity": "Fertilize every 2-3 weeks",
+    "Temperature": "60-80°F (15-27°C)",
+    "Fertilizer": "Moderate",
+    "Pruning": "Pinch back stems to encourage bushier growth"
+  },
+  {
+    "Plant": "Geraniums",
+    "Light": "Full sun",
+    "Watering": "Water moderately",
+    "Humidity": "Fertilize every 2-3 weeks",
+    "Temperature": "60-80°F (15-27°C)",
+    "Fertilizer": "Low",
+    "Pruning": "Pinch back stems to encourage bushier growth"
+  },
+  {
+    "Plant": "Begonias",
+    "Light": "Partial shade",
+    "Watering": "Water regularly",
+    "Humidity": "Fertilize every 2-3 weeks",
+    "Temperature": "60-80°F (15-27°C)",
+    "Fertilizer": "Moderate",
+    "Pruning": "Pinch back stems to encourage bushier growth"
+  },
+  {
+    "Plant": "Hostas",
+    "Light": "Partial shade",
+    "Watering": "Water regularly",
+    "Humidity": "Fertilize lightly in spring",
+    "Temperature": "50-70°F (10-21°C)",
+    "Fertilizer": "Moderate",
+    "Pruning": "Divide clumps every few years to prevent overcrowding"
+  },
+  {
+    "Plant": "Daylilies",
+    "Light": "Full sun",
+    "Watering": "Water regularly",
+    "Humidity": "Fertilize lightly in spring",
+    "Temperature": "50-70°F (10-21°C)",
+    "Fertilizer": "Moderate",
+    "Pruning": "Divide clumps every few years to prevent overcrowding"
+  },
+  {
+    "Plant": "Irises",
+    "Light": "Full sun",
+    "Watering": "Water moderately",
+    "Humidity": "Fertilize lightly in spring",
+    "Temperature": "50-70°F (10-21°C)",
+    "Fertilizer": "Low",
+    "Pruning": "Divide clumps every few years to prevent overcrowding"
+  },
+  {
+    "Plant": "Peonies",
+    "Light": "Full sun",
+    "Watering": "Water moderately",
+    "Humidity": "Fertilize lightly in spring",
+    "Temperature": "50-70°F (10-21°C)",
+    "Fertilizer": "Low",
+    "Pruning": "Divide clumps every few years to prevent overcrowding"
+  },
+  {
+    "Plant": "Roses",
+    "Light": "Full sun",
+    "Watering": "Water deeply and infrequently",
+    "Humidity": "Fertilize regularly throughout the growing season",
+    "Temperature": "50-70°F (10-21°C)",
+    "Fertilizer": "Moderate",
+    "Pruning": "Prune regularly to maintain shape"
+  },
+  {
+    "Plant": "Hydrangeas",
+    "Light": "Partial shade",
+    "Watering": "Water regularly",
+    "Humidity": "Fertilize lightly in spring",
+    "Temperature": "50-70°F (10-21°C)",
+    "Fertilizer": "Moderate",
+    "Pruning": "Prune after flowering to maintain shape"
+  },
+  {
+    "Plant": "Azaleas",
+    "Light": "Partial shade",
+    "Watering": "Water regularly",
+    "Humidity": "Fertilize lightly in spring",
+    "Temperature": "50-70°F (10-21°C)",
+    "Fertilizer": "High",
+    "Pruning": "Acidify soil with peat moss or sulfur"
+  },
+  {
+    "Plant": "Rhododendrons",
+    "Light": "Partial shade",
+    "Watering": "Water regularly",
+    "Humidity": "Fertilize lightly in spring",
+    "Temperature": "50-70°F (10-21°C)",
+    "Fertilizer": "High",
+    "Pruning": "Acidify soil with peat moss or sulfur"
+  },
+  {
+    "Plant": "Camellias",
+    "Light": "Partial shade",
+    "Watering": "Water regularly",
+    "Humidity": "Fertilize lightly in spring",
+    "Temperature": "50-70°F (10-21°C)",
+    "Fertilizer": "High",
+    "Pruning": "Acidify soil with peat moss or sulfur"
+  },
+  {
+    "Plant": "Cacti",
+    "Light": "Bright indirect light",
+    "Watering": "Water sparingly",
+    "Humidity": "Fertilize lightly in spring",
+    "Temperature": "60-80°F (15-27°C)",
+    "Fertilizer": "Low",
+    "Pruning": "Use well-draining soil"
+  },
+  {
+    "Plant": "Peace lilies",
+    "Light": "Bright indirect light",
+    "Watering": "Water when the top inch of soil is dry",
+    "Humidity": "Fertilize monthly during growing season",
+    "Temperature": "60-80°F (15-27°C)",
+    "Fertilizer": "High",
+    "Pruning": "Mist leaves regularly"
+  },
+  {
+    "Plant": "Snake plants",
+    "Light": "Bright indirect light",
+    "Watering": "Water sparingly",
+    "Humidity": "Fertilize lightly in spring",
+    "Temperature": "60-80°F (15-27°C)",
+    "Fertilizer": "Low",
+    "Pruning": "Tolerate low light conditions"
+  },
+  {
+    "Plant": "Spider plants",
+    "Light": "Bright indirect light",
+    "Watering": "Water when the top inch of soil is dry",
+    "Humidity": "Fertilize monthly during growing season",
+    "Temperature": "60-80°F (15-27°C)",
+    "Fertilizer": "Moderate",
+    "Pruning": "Propagate easily from plantlets"
+  },
+  {
+    "Plant": "ZZ plants",
+    "Light": "Low light",
+    "Watering": "Water sparingly",
+    "Humidity": "Fertilize lightly in spring",
+    "Temperature": "60-80°F (15-27°C)",
+    "Fertilizer": "Low",
+    "Pruning": "Tolerate drought conditions"
+  },
+  {
+    "Plant": "Plant",
+    "Light": "Sunlight",
+    "Watering": "Watering",
+    "Humidity": "Soil",
+    "Temperature": "Fertilizer",
+    "Fertilizer": "Growth_Tips",
+    "Pruning": "Problems",
+    "Propagation": "Propagation",
+    "Notes": "Notes"
+  },
+  {
+    "Plant": "Lemon Balm",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Regular",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Pinch off flower buds to encourage leaf growth",
+    "Pruning": "Can be invasive",
+    "Propagation": "so plant in containers"
+  },
+  {
+    "Plant": "Dahlia",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Deadhead spent flowers for continuous blooms",
+    "Pruning": "Can be susceptible to aphids",
+    "Propagation": "Tubers",
+    "Notes": "Variety of flower colors and sizes"
+  },
+  {
+    "Plant": "Hosta",
+    "Light": "Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Divide plants every few years to keep them healthy",
+    "Pruning": "Can be susceptible to snails and slugs"
+  },
+  {
+    "Plant": "Daylily",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Deadhead spent flowers to encourage new blooms",
+    "Pruning": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Hydrangea",
+    "Light": "Partial Shade",
+    "Watering": "Regular",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune after flowering to encourage new growth",
+    "Pruning": "Can be susceptible to fungal diseases",
+    "Propagation": "Cuttings",
+    "Notes": "Large and showy flower clusters"
+  },
+  {
+    "Plant": "Clematis",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune after flowering to encourage new growth",
+    "Pruning": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Wisteria",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune regularly to control growth",
+    "Pruning": "Can be invasive"
+  },
+  {
+    "Plant": "Lilac",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune after flowering to encourage new growth",
+    "Pruning": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Magnolia",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune sparingly",
+    "Pruning": "as they bloom on old wood",
+    "Propagation": "Can be susceptible to fungal diseases",
+    "Notes": "Large and showy flowers"
+  },
+  {
+    "Plant": "Azalea",
+    "Light": "Partial Shade",
+    "Watering": "Regular",
+    "Humidity": "Acidic",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune after flowering to encourage new growth",
+    "Pruning": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Rhododendron",
+    "Light": "Partial Shade",
+    "Watering": "Regular",
+    "Humidity": "Acidic",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune after flowering to encourage new growth",
+    "Pruning": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Camellia",
+    "Light": "Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Acidic",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune after flowering to encourage new growth",
+    "Pruning": "Can be susceptible to fungal diseases",
+    "Propagation": "Cuttings",
+    "Notes": "Elegant flowers"
+  },
+  {
+    "Plant": "Viburnum",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune after flowering to encourage new growth",
+    "Pruning": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Forsythia",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune after flowering to encourage new growth",
+    "Pruning": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Spirea",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune after flowering to encourage new growth",
+    "Pruning": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Boxwood",
+    "Light": "Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune regularly to maintain shape",
+    "Pruning": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Yew",
+    "Light": "Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune regularly to maintain shape",
+    "Pruning": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Juniper",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune sparingly",
+    "Pruning": "as they are slow-growing",
+    "Propagation": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Cypress",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune sparingly",
+    "Pruning": "as they are slow-growing",
+    "Propagation": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Cedar",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune sparingly",
+    "Pruning": "as they are slow-growing",
+    "Propagation": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Pine",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune sparingly",
+    "Pruning": "as they are slow-growing",
+    "Propagation": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Fir",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune sparingly",
+    "Pruning": "as they are slow-growing",
+    "Propagation": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Spruce",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune sparingly",
+    "Pruning": "as they are slow-growing",
+    "Propagation": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Larch",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune sparingly",
+    "Pruning": "as they are slow-growing",
+    "Propagation": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Birch",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune sparingly",
+    "Pruning": "as they are slow-growing",
+    "Propagation": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Maple",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune sparingly",
+    "Pruning": "as they are slow-growing",
+    "Propagation": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Oak",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune sparingly",
+    "Pruning": "as they are slow-growing",
+    "Propagation": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Willow",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune sparingly",
+    "Pruning": "as they are fast-growing",
+    "Propagation": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Ash",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune sparingly",
+    "Pruning": "as they are fast-growing",
+    "Propagation": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Elm",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune sparingly",
+    "Pruning": "as they are fast-growing",
+    "Propagation": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Beech",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune sparingly",
+    "Pruning": "as they are slow-growing",
+    "Propagation": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Banana",
+    "Light": "Full Sun",
+    "Watering": "Regular",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Pinch off suckers to encourage a single trunk",
+    "Pruning": "Can be susceptible to fungal diseases and pests",
+    "Propagation": "Suckers",
+    "Notes": "Sweet and nutritious fruit"
+  },
+  {
+    "Plant": "Guava",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Pinch off side shoots to encourage a single trunk",
+    "Pruning": "Can be susceptible to fungal diseases and pests",
+    "Propagation": "Seeds",
+    "Notes": "Sweet and aromatic fruit"
+  },
+  {
+    "Plant": "Passionfruit",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Pinch off side shoots to encourage a single vine",
+    "Pruning": "Can be susceptible to fungal diseases and pests"
+  },
+  {
+    "Plant": "Tangerine",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune regularly to encourage fruit production",
+    "Pruning": "Can be susceptible to fungal diseases and pests"
+  },
+  {
+    "Plant": "Mandarin",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune regularly to encourage fruit production",
+    "Pruning": "Can be susceptible to fungal diseases and pests"
+  },
+  {
+    "Plant": "Pomegranate",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune regularly to encourage fruit production",
+    "Pruning": "Can be susceptible to fungal diseases and pests",
+    "Propagation": "Seeds",
+    "Notes": "Sweet and tart fruit"
+  },
+  {
+    "Plant": "Walnut",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune sparingly",
+    "Pruning": "as they are slow-growing",
+    "Propagation": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Chestnut",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune sparingly",
+    "Pruning": "as they are slow-growing",
+    "Propagation": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Hazelnut",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune sparingly",
+    "Pruning": "as they are slow-growing",
+    "Propagation": "Can be susceptible to fungal diseases"
+  },
+  {
+    "Plant": "Almond",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Prune regularly to encourage fruit production",
+    "Pruning": "Can be susceptible to fungal diseases and pests"
+  },
+  {
+    "Plant": "Aloe Vera",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Infrequent",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water only when the soil is completely dry",
+    "Pruning": "Can be susceptible to mealybugs",
+    "Propagation": "Leaves",
+    "Notes": "Medicinal properties"
+  },
+  {
+    "Plant": "Asparagus Fern",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to spider mites"
+  },
+  {
+    "Plant": "Bird of Paradise",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to mealybugs"
+  },
+  {
+    "Plant": "Cast Iron Plant",
+    "Light": "Low Light",
+    "Watering": "Infrequent",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water only when the soil is completely dry",
+    "Pruning": "Can be susceptible to root rot if overwatered"
+  },
+  {
+    "Plant": "Chinese Evergreen",
+    "Light": "Low Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to mealybugs"
+  },
+  {
+    "Plant": "Clivia",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the soil is almost dry",
+    "Pruning": "Can be susceptible to root rot if overwatered"
+  },
+  {
+    "Plant": "Coleus",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Keep soil evenly moist",
+    "Pruning": "Can be susceptible to spider mites"
+  },
+  {
+    "Plant": "Cyclamen",
+    "Light": "Cool",
+    "Watering": "Bright Indirect Light",
+    "Humidity": "Moderate",
+    "Temperature": "Well-draining",
+    "Fertilizer": "Balanced",
+    "Pruning": "Water when the soil is almost dry",
+    "Propagation": "Prone to root rot if overwatered",
+    "Notes": "Beautiful and delicate flowers"
+  },
+  {
+    "Plant": "Gardenia",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Acidic",
+    "Temperature": "Balanced",
+    "Fertilizer": "Keep soil evenly moist",
+    "Pruning": "Can be susceptible to spider mites and fungal diseases",
+    "Propagation": "Cuttings",
+    "Notes": "Fragrant and beautiful flowers"
+  },
+  {
+    "Plant": "Gloxinia",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the soil is almost dry",
+    "Pruning": "Prone to root rot if overwatered"
+  },
+  {
+    "Plant": "Jade Plant",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Infrequent",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water only when the soil is completely dry",
+    "Pruning": "Can be susceptible to mealybugs"
+  },
+  {
+    "Plant": "Kalanchoe",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the soil is almost dry",
+    "Pruning": "Can be susceptible to mealybugs"
+  },
+  {
+    "Plant": "Peperomia",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to mealybugs"
+  },
+  {
+    "Plant": "Prayer Plant",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Keep soil slightly moist",
+    "Pruning": "Can be susceptible to spider mites"
+  },
+  {
+    "Plant": "Rubber Tree",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to spider mites"
+  },
+  {
+    "Plant": "Sansevieria (Snake Plant)",
+    "Light": "Low Light",
+    "Watering": "Infrequent",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water only when the soil is completely dry",
+    "Pruning": "Can be susceptible to root rot if overwatered"
+  },
+  {
+    "Plant": "Schefflera",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to spider mites"
+  },
+  {
+    "Plant": "Sweet Potato Vine",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Keep soil evenly moist",
+    "Pruning": "Can be susceptible to spider mites"
+  },
+  {
+    "Plant": "Swiss Cheese Plant (Monstera Deliciosa)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to root rot if overwatered"
+  },
+  {
+    "Plant": "Ti Plant (Cordyline)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to mealybugs"
+  },
+  {
+    "Plant": "ZZ Plant (Zamioculcas Zamiifolia)",
+    "Light": "Low Light",
+    "Watering": "Infrequent",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water only when the soil is completely dry",
+    "Pruning": "Can be susceptible to root rot if overwatered"
+  },
+  {
+    "Plant": "Air Plant (Tillandsia)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Infrequent",
+    "Fertilizer": "Mist regularly",
+    "Pruning": "Susceptible to overwatering and root rot"
+  },
+  {
+    "Plant": "Arrowhead Plant (Syngonium)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Prone to root rot if overwatered"
+  },
+  {
+    "Plant": "Baby Tears (Soleirolia Soleirolii)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Keep soil evenly moist",
+    "Pruning": "Can be susceptible to mealybugs"
+  },
+  {
+    "Plant": "Bird's Nest Fern (Asplenium Nidus)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Keep soil slightly moist",
+    "Pruning": "Susceptible to overwatering and root rot"
+  },
+  {
+    "Plant": "Boston Fern (Nephrolepis Exaltata)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Keep soil slightly moist",
+    "Pruning": "Can be susceptible to spider mites and mealybugs"
+  },
+  {
+    "Plant": "Bunny Ears Cactus (Opuntia Microdasys)",
+    "Light": "Full Sun",
+    "Watering": "Infrequent",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water only when the soil is completely dry",
+    "Pruning": "Susceptible to mealybugs"
+  },
+  {
+    "Plant": "Chinese Money Plant (Pilea Peperomioides)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to root rot if overwatered"
+  },
+  {
+    "Plant": "Christmas Cactus (Schlumbergera)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to mealybugs"
+  },
+  {
+    "Plant": "Crown of Thorns (Euphorbia Milii)",
+    "Light": "Full Sun",
+    "Watering": "Infrequent",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water only when the soil is completely dry",
+    "Pruning": "Can be susceptible to mealybugs and fungal diseases"
+  },
+  {
+    "Plant": "Devil's Ivy (Epipremnum Aureum)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to spider mites and mealybugs"
+  },
+  {
+    "Plant": "Elephant Ear (Alocasia)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to root rot if overwatered"
+  },
+  {
+    "Plant": "English Ivy (Hedera Helix)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to spider mites and mealybugs"
+  },
+  {
+    "Plant": "Euphorbia (Euphorbia)",
+    "Light": "Full Sun",
+    "Watering": "Infrequent",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water only when the soil is completely dry",
+    "Pruning": "Can be susceptible to mealybugs and fungal diseases"
+  },
+  {
+    "Plant": "Ficus Lyrata (Fiddle Leaf Fig)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to root rot if overwatered"
+  },
+  {
+    "Plant": "Fishbone Cactus (Epiphyllum Anguliger)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to mealybugs and fungal diseases"
+  },
+  {
+    "Plant": "Friendship Plant (Pilea Cadierei)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to spider mites"
+  },
+  {
+    "Plant": "Gasteria (Gasteria)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to mealybugs"
+  },
+  {
+    "Plant": "Haworthia (Haworthia)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water only when the soil is completely dry",
+    "Pruning": "Can be susceptible to mealybugs"
+  },
+  {
+    "Plant": "Hoya (Hoya)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the soil is almost dry",
+    "Pruning": "Can be susceptible to mealybugs"
+  },
+  {
+    "Plant": "Kalanchoe (Kalanchoe)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the soil is almost dry",
+    "Pruning": "Can be susceptible to mealybugs"
+  },
+  {
+    "Plant": "Lucky Bamboo (Dracaena Sanderiana)",
+    "Light": "Low Light",
+    "Watering": "Moderate",
+    "Humidity": "Water",
+    "Temperature": "Balanced",
+    "Fertilizer": "Keep water fresh and change it regularly",
+    "Pruning": "Susceptible to root rot if water is not changed often"
+  },
+  {
+    "Plant": "Moth Orchid (Phalaenopsis)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Bark",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the roots are mostly white",
+    "Pruning": "Can be susceptible to root rot if overwatered"
+  },
+  {
+    "Plant": "Peace Lily (Spathiphyllum)",
+    "Light": "Low Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to root rot if overwatered"
+  },
+  {
+    "Plant": "Peperomia (Peperomia)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to mealybugs"
+  },
+  {
+    "Plant": "Philodendron (Philodendron)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to spider mites"
+  },
+  {
+    "Plant": "Pothos (Epipremnum Aureum)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to spider mites"
+  },
+  {
+    "Plant": "Prayer Plant (Maranta Leuconeura)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Keep soil slightly moist",
+    "Pruning": "Can be susceptible to spider mites"
+  },
+  {
+    "Plant": "Rattlesnake Plant (Calathea Lancifolia)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Keep soil slightly moist",
+    "Pruning": "Can be susceptible to spider mites"
+  },
+  {
+    "Plant": "Sago Palm (Cycas Revoluta)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to mealybugs"
+  },
+  {
+    "Plant": "Snake Plant (Sansevieria)",
+    "Light": "Low Light",
+    "Watering": "Infrequent",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water only when the soil is completely dry",
+    "Pruning": "Can be susceptible to root rot if overwatered"
+  },
+  {
+    "Plant": "Spider Plant (Chlorophytum Comosum)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to spider mites"
+  },
+  {
+    "Plant": "String of Pearls (Senecio Rowleyanus)",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the soil is almost dry",
+    "Pruning": "Can be susceptible to mealybugs"
+  },
+  {
+    "Plant": "Aspidistra",
+    "Light": "Low Light",
+    "Watering": "Infrequent",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water only when the soil is completely dry",
+    "Pruning": "Can be susceptible to root rot and pests"
+  },
+  {
+    "Plant": "Bird's Nest Fern",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Keep soil slightly moist",
+    "Pruning": "Susceptible to overwatering and root rot"
+  },
+  {
+    "Plant": "Boston Fern",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Keep soil slightly moist",
+    "Pruning": "Can be susceptible to spider mites and mealybugs"
+  },
+  {
+    "Plant": "Chinese Money Plant",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to root rot and pests"
+  },
+  {
+    "Plant": "Christmas Cactus",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to mealybugs and root rot"
+  },
+  {
+    "Plant": "Elephant Ear",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Susceptible to root rot and pests"
+  },
+  {
+    "Plant": "English Ivy",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to spider mites and mealybugs"
+  },
+  {
+    "Plant": "Friendship Plant",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the top inch of soil is dry",
+    "Pruning": "Can be susceptible to spider mites"
+  },
+  {
+    "Plant": "Haworthia",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water only when the soil is completely dry",
+    "Pruning": "Can be susceptible to mealybugs"
+  },
+  {
+    "Plant": "Lucky Bamboo",
+    "Light": "Low Light",
+    "Watering": "Moderate",
+    "Humidity": "Water",
+    "Temperature": "Balanced",
+    "Fertilizer": "Keep water fresh and change it regularly",
+    "Pruning": "Susceptible to root rot if water is not changed often"
+  },
+  {
+    "Plant": "Moth Orchid",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Bark",
+    "Temperature": "Balanced",
+    "Fertilizer": "Water when the roots are mostly white",
+    "Pruning": "Can be susceptible to root rot if overwatered"
+  },
+  {
+    "Plant": "Rattlesnake Plant",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "Well-draining",
+    "Temperature": "Balanced",
+    "Fertilizer": "Keep soil slightly moist",
+    "Pruning": "Can be susceptible to spider mites"
+  },
+  {
+    "Plant": "Dogwood",
+    "Light": "Partial shade",
+    "Watering": "Moist",
+    "Humidity": "well-drained soil",
+    "Temperature": "Water regularly during dry spells.",
+    "Fertilizer": "especially during dry spells. Prune in late winter or early spring."
+  },
+  {
+    "Plant": "Holly",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly during dry spells.",
+    "Temperature": "especially during dry spells. Harvest holly berries when they are ripe and red."
+  },
+  {
+    "Plant": "Grass",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Mow regularly to maintain height.",
+    "Temperature": "especially during dry spells. Mow grass as needed."
+  },
+  {
+    "Plant": "Clover",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly during dry spells.",
+    "Temperature": "especially during dry spells. Harvest clover flowers when they are in bloom."
+  },
+  {
+    "Plant": "Dandelion",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly during dry spells.",
+    "Temperature": "especially during dry spells. Harvest dandelion flowers when they are in bloom."
+  },
+  {
+    "Plant": "Wildflower",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly during dry spells.",
+    "Temperature": "especially during dry spells. Harvest wildflower seeds when they are ripe and dry."
+  },
+  {
+    "Plant": "Pepper",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during hot weather. Pinch off flower buds to encourage larger fruit. Harvest peppers when they are fully colored."
+  },
+  {
+    "Plant": "Cabbage",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Harvest cabbage heads when they are firm and dense."
+  },
+  {
+    "Plant": "Beet",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Harvest beets when they are about 2 inches in diameter."
+  },
+  {
+    "Plant": "Pea",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Harvest peas when they are young and tender."
+  },
+  {
+    "Plant": "Bean",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Harvest beans when they are young and tender."
+  },
+  {
+    "Plant": "Cacao",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Harvest cacao beans when they are ripe and yellow or red."
+  },
+  {
+    "Plant": "Artichoke",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Harvest artichoke buds when they are firm and green."
+  },
+  {
+    "Plant": "Rhubarb",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Harvest rhubarb stalks when they are about 1 foot tall."
+  },
+  {
+    "Plant": "Swiss Chard",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Harvest Swiss chard leaves when they are about 6 inches tall."
+  },
+  {
+    "Plant": "Beetroot",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Harvest beetroot when they are about 2 inches in diameter.",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Harvest when roots are mature",
+    "Propagation": "Seeds",
+    "Notes": "Rich in vitamins and minerals"
+  },
+  {
+    "Plant": "Celery",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Harvest celery stalks when they are about 8 inches long."
+  },
+  {
+    "Plant": "Pumpkin",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Harvest pumpkins when they are ripe and orange.",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Pinch back to encourage branching",
+    "Propagation": "Seeds",
+    "Notes": "Sweet and flavorful fruit"
+  },
+  {
+    "Plant": "Turnip",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Harvest turnips when they are about 2 inches in diameter."
+  },
+  {
+    "Plant": "Arugula",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Harvest arugula leaves when they are about 4 inches tall."
+  },
+  {
+    "Plant": "Monstera Deliciosa",
+    "Light": "Bright indirect light",
+    "Watering": "Well-drained potting mix",
+    "Humidity": "Water when the top inch of soil is dry.  Can be propagated by cuttings."
+  },
+  {
+    "Plant": "Rubber Plant",
+    "Light": "Bright indirect light",
+    "Watering": "Well-drained potting mix",
+    "Humidity": "Water when the top inch of soil is dry. Keep the humidity high."
+  },
+  {
+    "Plant": "Gesneria",
+    "Light": "Bright indirect light",
+    "Watering": "Well-drained potting mix",
+    "Humidity": "Water when the top inch of soil is dry. Avoid getting water on the leaves."
+  },
+  {
+    "Plant": "Streptocarpus",
+    "Light": "Bright indirect light",
+    "Watering": "Well-drained potting mix",
+    "Humidity": "Water when the top inch of soil is dry. Avoid getting water on the leaves."
+  },
+  {
+    "Plant": "Gasteria",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water sparingly",
+    "Temperature": "allowing soil to dry out between waterings. Prune off any dead or damaged leaves."
+  },
+  {
+    "Plant": "Echeveria",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water sparingly",
+    "Temperature": "allowing soil to dry out between waterings. Prune off any dead or damaged leaves."
+  },
+  {
+    "Plant": "Sedum",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water sparingly",
+    "Temperature": "allowing soil to dry out between waterings. Prune off any dead or damaged leaves."
+  },
+  {
+    "Plant": "Sempervivum",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water sparingly",
+    "Temperature": "allowing soil to dry out between waterings. Prune off any dead or damaged leaves."
+  },
+  {
+    "Plant": "Bougainvillea",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Prune after flowering to encourage more blooms.",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune after flowering",
+    "Propagation": "Cuttings",
+    "Notes": "Vivid"
+  },
+  {
+    "Plant": "Hibiscus",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Fertilize during the growing season.",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune in early spring",
+    "Propagation": "Cuttings",
+    "Notes": "Attracts butterflies"
+  },
+  {
+    "Plant": "Jasmine",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Prune after flowering to encourage more blooms.",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune after flowering",
+    "Propagation": "Cuttings",
+    "Notes": "Fragrant blooms"
+  },
+  {
+    "Plant": "Weigela",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Prune after flowering to encourage more blooms."
+  },
+  {
+    "Plant": "Abelia",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Prune in late winter or early spring."
+  },
+  {
+    "Plant": "Butterfly Bush",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Prune in late winter or early spring."
+  },
+  {
+    "Plant": "Redwood",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Prune in late winter or early spring."
+  },
+  {
+    "Plant": "Flowering Cherry",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Prune in late winter or early spring."
+  },
+  {
+    "Plant": "Crabapple",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Prune in late winter or early spring."
+  },
+  {
+    "Plant": "Allium",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Plant bulbs in fall."
+  },
+  {
+    "Plant": "Freesia",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Plant bulbs in fall."
+  },
+  {
+    "Plant": "Gladiolus",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Plant corms in spring.",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Remove flower spikes after flowering",
+    "Propagation": "Corms",
+    "Notes": "Tall and striking flowers"
+  },
+  {
+    "Plant": "Calla Lily",
+    "Light": "Partial shade",
+    "Watering": "Moist",
+    "Humidity": "well-drained soil",
+    "Temperature": "Water regularly",
+    "Fertilizer": "especially during dry spells. Plant bulbs in spring."
+  },
+  {
+    "Plant": "Carnation",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Deadhead spent flowers to encourage more blooms."
+  },
+  {
+    "Plant": "Dianthus",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Deadhead spent flowers to encourage more blooms."
+  },
+  {
+    "Plant": "Delphinium",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Stake tall varieties for support. Deadhead spent flowers to encourage more blooms."
+  },
+  {
+    "Plant": "Foxglove",
+    "Light": "Partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Remove seed pods to prevent self-seeding.",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Remove flower stalks after flowering",
+    "Propagation": "Seeds",
+    "Notes": "Tall and striking flowers"
+  },
+  {
+    "Plant": "Snapdragon",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Deadhead spent flowers to encourage more blooms."
+  },
+  {
+    "Plant": "Sweet Pea",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Provide support for climbing vines.",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Pinch back to encourage branching",
+    "Propagation": "Seeds",
+    "Notes": "Fragrant and delicate flowers"
+  },
+  {
+    "Plant": "Poppy",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water sparingly",
+    "Temperature": "especially during dry spells. Allow the foliage to die back after flowering.",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Remove flower stalks after flowering",
+    "Propagation": "Seeds",
+    "Notes": "Showy and delicate flowers"
+  },
+  {
+    "Plant": "Aster",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Deadhead spent flowers to encourage more blooms."
+  },
+  {
+    "Plant": "Chrysanthemum",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Pinch back stems in early spring to encourage bushier growth.",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Pinch back to encourage bushy growth",
+    "Propagation": "Cuttings",
+    "Notes": "Colorful and long-lasting blooms"
+  },
+  {
+    "Plant": "Bell Pepper",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during hot weather. Pinch off flower buds to encourage larger fruit. Harvest peppers when they are fully colored.",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune suckers and lower leaves",
+    "Propagation": "Seeds",
+    "Notes": "Sweet and colorful vegetable"
+  },
+  {
+    "Plant": "Chard",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Harvest chard leaves when they are about 6 inches tall."
+  },
+  {
+    "Plant": "Eggplant",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during hot weather. Harvest eggplants when they are firm and glossy.",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune suckers and lower leaves",
+    "Propagation": "Seeds",
+    "Notes": "Versatile and flavorful vegetable"
+  },
+  {
+    "Plant": "Summer Squash",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Harvest squash when they are young and tender."
+  },
+  {
+    "Plant": "Agave",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water sparingly",
+    "Temperature": "allowing soil to dry out between waterings."
+  },
+  {
+    "Plant": "Apricot",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Prune trees in late winter or early spring. Harvest apricots when they are ripe and orange."
+  },
+  {
+    "Plant": "Cranberry",
+    "Light": "Full sun to partial shade",
+    "Watering": "Acidic soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Harvest cranberries when they are ripe and red."
+  },
+  {
+    "Plant": "Kiwi",
+    "Light": "Full sun to partial shade",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Provide trellises or cages for vines to climb. Harvest kiwis when they are ripe and brown."
+  },
+  {
+    "Plant": "Nectarine",
+    "Light": "Full sun",
+    "Watering": "Well-drained soil",
+    "Humidity": "Water regularly",
+    "Temperature": "especially during dry spells. Prune trees in late winter or early spring. Harvest nectarines when they are ripe and orange."
+  },
+  {
+    "Plant": "Lantana",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Low",
+    "Temperature": "60-80°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Pinch back to encourage bushy growth",
+    "Propagation": "Seeds",
+    "Notes": "Attracts butterflies and hummingbirds"
+  },
+  {
+    "Plant": "Oleander",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Low",
+    "Temperature": "60-80°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune after flowering",
+    "Propagation": "Cuttings",
+    "Notes": "Toxic if ingested"
+  },
+  {
+    "Plant": "Palm",
+    "Light": "Bright Indirect Light",
+    "Watering": "Moderate",
+    "Humidity": "High",
+    "Temperature": "60-80°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune dead leaves",
+    "Propagation": "Seeds",
+    "Notes": "Adds tropical touch"
+  },
+  {
+    "Plant": "Chili Pepper",
+    "Light": "Full Sun",
+    "Watering": "Regular",
+    "Humidity": "Moderate",
+    "Temperature": "60-85°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune suckers and lower leaves",
+    "Propagation": "Seeds",
+    "Notes": "Spicy and flavorful vegetable"
+  },
+  {
+    "Plant": "Okra",
+    "Light": "Full Sun",
+    "Watering": "Regular",
+    "Humidity": "Moderate",
+    "Temperature": "60-85°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune suckers and lower leaves",
+    "Propagation": "Seeds",
+    "Notes": "Mucilaginous vegetable"
+  },
+  {
+    "Plant": "Date Palm",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Low",
+    "Temperature": "70-90°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune dead leaves",
+    "Propagation": "Seeds",
+    "Notes": "Sweet and nutritious fruit"
+  },
+  {
+    "Plant": "Neem",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Low",
+    "Temperature": "60-80°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune after flowering",
+    "Propagation": "Seeds",
+    "Notes": "Medicinal properties"
+  },
+  {
+    "Plant": "Ber",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Low",
+    "Temperature": "70-90°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune after fruiting",
+    "Propagation": "Seeds",
+    "Notes": "Sweet and juicy fruit"
+  },
+  {
+    "Plant": "Amla",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Low",
+    "Temperature": "70-90°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune after fruiting",
+    "Propagation": "Seeds",
+    "Notes": "High in vitamin C"
+  },
+  {
+    "Plant": "Bael",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Low",
+    "Temperature": "70-90°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune after fruiting",
+    "Propagation": "Seeds",
+    "Notes": "Medicinal fruit"
+  },
+  {
+    "Plant": "Jamun",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Low",
+    "Temperature": "70-90°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune after fruiting",
+    "Propagation": "Seeds",
+    "Notes": "Sweet and tart fruit"
+  },
+  {
+    "Plant": "Watermelon",
+    "Light": "Full Sun",
+    "Watering": "Regular",
+    "Humidity": "Moderate",
+    "Temperature": "70-90°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Pinch back to encourage branching",
+    "Propagation": "Seeds",
+    "Notes": "Sweet and refreshing fruit"
+  },
+  {
+    "Plant": "Muskmelon",
+    "Light": "Full Sun",
+    "Watering": "Regular",
+    "Humidity": "Moderate",
+    "Temperature": "70-90°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Pinch back to encourage branching",
+    "Propagation": "Seeds",
+    "Notes": "Sweet and aromatic fruit"
+  },
+  {
+    "Plant": "Fenugreek",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Low",
+    "Temperature": "60-80°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Pinch back to encourage growth",
+    "Propagation": "Seeds",
+    "Notes": "Used in cooking and medicinal properties"
+  },
+  {
+    "Plant": "Coriander",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Moderate",
+    "Temperature": "50-80°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Pinch back to encourage growth",
+    "Propagation": "Seeds",
+    "Notes": "Used in cooking"
+  },
+  {
+    "Plant": "Bottlebrush",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Low",
+    "Temperature": "60-80°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune after flowering",
+    "Propagation": "Cuttings",
+    "Notes": "Attracts birds"
+  },
+  {
+    "Plant": "Hollyhock",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Low",
+    "Temperature": "60-80°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Cut back stems after flowering",
+    "Propagation": "Seeds",
+    "Notes": "Tall and stately flowers"
+  },
+  {
+    "Plant": "Morning Glory",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Low",
+    "Temperature": "60-80°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Pinch back to encourage branching",
+    "Propagation": "Seeds",
+    "Notes": "Beautiful and colorful flowers"
+  },
+  {
+    "Plant": "Phlox",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Moderate",
+    "Temperature": "60-80°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Deadhead to encourage blooming",
+    "Propagation": "Seeds",
+    "Notes": "Colorful and fragrant flowers"
+  },
+  {
+    "Plant": "Primula",
+    "Light": "Partial Shade",
+    "Watering": "Regular",
+    "Humidity": "High",
+    "Temperature": "50-70°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Remove spent flower stalks",
+    "Propagation": "Seeds",
+    "Notes": "Early blooming flowers"
+  },
+  {
+    "Plant": "Veronica",
+    "Light": "Full Sun to Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "Moderate",
+    "Temperature": "50-70°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Cut back stems after flowering",
+    "Propagation": "Seeds",
+    "Notes": "Spiky and colorful flowers"
+  },
+  {
+    "Plant": "Violet",
+    "Light": "Partial Shade",
+    "Watering": "Regular",
+    "Humidity": "High",
+    "Temperature": "50-70°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Remove spent flower stalks",
+    "Propagation": "Seeds",
+    "Notes": "Delicate and beautiful flowers"
+  },
+  {
+    "Plant": "Aak",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Low",
+    "Temperature": "60-80°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune after flowering",
+    "Propagation": "Seeds",
+    "Notes": "Medicinal properties"
+  },
+  {
+    "Plant": "Adrak",
+    "Light": "Partial Shade",
+    "Watering": "Moderate",
+    "Humidity": "High",
+    "Temperature": "60-80°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Harvest when rhizomes are mature",
+    "Propagation": "Rhizomes",
+    "Notes": "Used in cooking and medicinal properties"
+  },
+  {
+    "Plant": "Ahirun",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Low",
+    "Temperature": "70-90°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune after fruiting",
+    "Propagation": "Seeds",
+    "Notes": "Sweet and juicy fruit"
+  },
+  {
+    "Plant": "Ajwain",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Low",
+    "Temperature": "60-80°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Pinch back to encourage growth",
+    "Propagation": "Seeds",
+    "Notes": "Used in cooking and medicinal properties"
+  },
+  {
+    "Plant": "Aloo Bukhara",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Low",
+    "Temperature": "70-90°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune after fruiting",
+    "Propagation": "Seeds",
+    "Notes": "Sweet and tart fruit"
+  },
+  {
+    "Plant": "Anardana",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Low",
+    "Temperature": "70-90°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune after fruiting",
+    "Propagation": "Seeds",
+    "Notes": "Sweet and tart fruit"
+  },
+  {
+    "Plant": "Arhar Dal",
+    "Light": "Full Sun",
+    "Watering": "Regular",
+    "Humidity": "Moderate",
+    "Temperature": "60-85°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune suckers and lower leaves",
+    "Propagation": "Seeds",
+    "Notes": "High in protein"
+  },
+  {
+    "Plant": "Ashgourd",
+    "Light": "Full Sun",
+    "Watering": "Regular",
+    "Humidity": "Moderate",
+    "Temperature": "60-85°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Pinch back to encourage branching",
+    "Propagation": "Seeds",
+    "Notes": "Used in cooking"
+  },
+  {
+    "Plant": "Bari",
+    "Light": "Full Sun",
+    "Watering": "Moderate",
+    "Humidity": "Low",
+    "Temperature": "70-90°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune after fruiting",
+    "Propagation": "Seeds",
+    "Notes": "Sweet and juicy fruit"
+  },
+  {
+    "Plant": "Bhindi",
+    "Light": "Full Sun",
+    "Watering": "Regular",
+    "Humidity": "Moderate",
+    "Temperature": "60-85°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune suckers and lower leaves",
+    "Propagation": "Seeds",
+    "Notes": "Mucilaginous vegetable"
+  },
+  {
+    "Plant": "Bottle Gourd",
+    "Light": "Full Sun",
+    "Watering": "Regular",
+    "Humidity": "Moderate",
+    "Temperature": "60-85°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Pinch back to encourage branching",
+    "Propagation": "Seeds",
+    "Notes": "Used in cooking"
+  },
+  {
+    "Plant": "Karela",
+    "Light": "Full Sun",
+    "Watering": "Regular",
+    "Humidity": "Moderate",
+    "Temperature": "60-85°F",
+    "Fertilizer": "Balanced fertilizer",
+    "Pruning": "Prune suckers and lower leaves",
+    "Propagation": "Seeds",
+    "Notes": "Bitter but healthy vegetable"
+  }
+]
